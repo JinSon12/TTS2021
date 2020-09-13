@@ -1,0 +1,37 @@
+.card {
+  flex: 0 40%; 
+  padding: 1.5rem;
+  margin: 2rem;
+  border: 3px solid #E26554;
+  background-color: #FC7361;
+  color: white;
+  max-width: 350px;
+}
+
+.card>h2 {
+  font-weight: 550;
+  margin-bottom: 1rem;
+}
+
+button { 
+  background-color: #222A68;
+  color: white;
+  border: none;
+  padding: 0.8rem 1rem;
+  box-shadow: 1rem;
+  font-size: .9rem;
+  max-width: 225px;
+  box-shadow: 0px 3px 8px 1px rgb(0 0 0 / 26%);
+  -webkit-box-shadow: 0px 3px 8px 1px rgb(0 0 0 / 26%);
+  -moz-box-shadow: 0px 3px 8px 1px rgb(0 0 0 / 26%);
+}
+
+#get-involved {
+  background-color: #FC7361;
+}
+
+#get-involved h1{
+  color: white;
+  text-align: center;
+  font-weight: 600;
+}
